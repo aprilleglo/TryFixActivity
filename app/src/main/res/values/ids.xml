@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageButtonTitle" type="id"/>
+    <item name="imageButtonThanks" type="id"/>
+    <item name="imageButtonCase1" type="id"/>
+    <item name="imageButtonCase2" type="id"/>
+    <item name="imageButtonPeople" type="id"/>
+    <item name="imageButtonCase3" type="id"/>
+    <item name="imageButtonCase4" type="id"/>
+    <item name="imageButtonCase5" type="id"/>
+    <item name="imageButtonCase6" type="id"/>
+    <item name="imageButtonCase7" type="id"/>
+    <item name="imageButtonCase8" type="id"/>
+    <item name="imageButtonCase9" type="id"/>
+    <item name="imageButtonCase10" type="id"/>
+    <item name="imageButtonCase11" type="id"/>
+    <item name="imageButtonCase12" type="id"/>
+    <item name="imageButtonCase13" type="id"/>
+    <item name="imageButtonCase14" type="id"/>
+    <item name="imageButtonCase15" type="id"/>
+    <item name="imageButtonLegende" type="id"/>
+    <item name="imageButtonApplication" type="id"/>
+    <item name="aboutParagraph1" type="id"/>
+    <item name="aboutParagraph2" type="id"/>
+    <item name="aboutParagraph3" type="id"/>
+    <item name="about1Description" type="id"/>
+    <item name="about2Description" type="id"/>
+    <item name="linkProject" type="id"/>
+
+
+
+</resources>

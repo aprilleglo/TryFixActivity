@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blois : Savoir Écouter</string>
+    <string name="aboutDescription">à propos du projet Blois : Savoir Écouter</string>
+    <string name="application_Description">L\'application</string>
+    <string name="case10_Description">Case 10</string>
+    <string name="case11_Description">Case 11</string>
+    <string name="case12_Description">Case 12</string>
+    <string name="case13_Description">Case 13</string>
+    <string name="case14_Description">Case 14</string>
+    <string name="case15_Description">Case 15</string>
+    <string name="case1_Description">Case 1</string>
+    <string name="case2_Description">Case 2</string>
+    <string name="case3_Description">Case 3</string>
+    <string name="case4_Description">Case 4</string>
+    <string name="case5_Description">Case 5</string>
+    <string name="title_activity_about">à propos du projet</string>
+    <string name="case6_Description">Case 6</string>
+    <string name="case7_Description">Case 7</string>
+    <string name="case8_Description">Case 8</string>
+    <string name="case9_Description">Case 9</string>
+    <string name="users_Description">les Blésois</string>
+    <string name="title_notifications">les notifications</string>
+    <string name="title_home">accueil</string>
+    <string name="title_dashboard">tableau de bord</string>
+    <string name="thanksDescription">les remerciements</string>
+    <string name="legend_Description">la légende</string>
+    <string name="aboutParagraph1">Ce projet est né du désir de comprendre l’espace urbain dans un contexte sculptural. Mon     objet est de créer un travail qui est un stimulant de l’engagement personnel avec l’espace     urbain et des logiques socio-spatiales des individus et des communautés qu’ils composent.     La démarche que j’ai adoptée pour réaliser l’oeuvre s’intègre dans une logique de long terme,     dans la mesure où je souhaite cibler une grande variété de publics.</string>
+    <string name="aboutParagraph2">Blois : Savoir Écouter est un projet hybride. La structure de bois et papier est réelle, la tablette tactile est intégrée et les applications mobiles fournies sont numériques. Dans cette œuvre participative, les Blésois peuvent ajouter au contenu du projet soit un dessin, soit une histoire écrite à la main, soit des contenus numériques (sons, images ou vidéos).</string>
+    <string name="about1Description">Les gens qui interagissent avec le projet Blois : Savoir Écouter</string>
+    <string name="about2Description">Vue détaillée de la sculpture Blois: Savoir Écouter</string>
+    <string name="title_activity_thanks">les remerciements</string>
+    <string name="linkProject">net.aprille.tryfixactivity</string>
+    <string name="title_activity_artist">à propos la artiste</string>
+    <string name="title_activity_people">les Blésois</string>
+</resources>
